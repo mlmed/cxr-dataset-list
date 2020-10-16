@@ -20,7 +20,7 @@ This should eventually be a comprehensive list of CXR datasets even if they are 
 
 - National Library of Medicine Tuberculosis Datasets https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4256233/
 
-- Large Dataset of Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images, https://data.mendeley.com/datasets/rscbjbr9sj/3. Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5.
+- Pediatric bacterial and viral pneumonia chest X-rays, https://data.mendeley.com/datasets/rscbjbr9sj/3. Paper: https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5.
 
 # Artifact detection
 
